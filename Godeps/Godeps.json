@@ -1,0 +1,39 @@
+{
+	"ImportPath": "k8s.io/etc-host-updater",
+	"GoVersion": "go1.7",
+	"Deps": [
+		{
+			"ImportPath": "github.com/lextoumbourou/goodhosts",
+			"Comment": "v2.1.0-5-g14360c1",
+			"Rev": "14360c1fefd3a4f3a42fc0fcefcf1d5df1fc6e60"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "1358eff22f0dd0c54fc521042cc607f6ff4b531a"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "8914e5017ca260f2a3a1575b1e6868874050d95e"
+		},
+		{
+			"ImportPath": "google.golang.org/api/compute/v1",
+			"Rev": "66a8bc6d16488febe10aa767dce67cbf3e7dd21d"
+		},
+		{
+			"ImportPath": "google.golang.org/api/gensupport",
+			"Rev": "66a8bc6d16488febe10aa767dce67cbf3e7dd21d"
+		},
+		{
+			"ImportPath": "google.golang.org/api/googleapi",
+			"Rev": "66a8bc6d16488febe10aa767dce67cbf3e7dd21d"
+		},
+		{
+			"ImportPath": "google.golang.org/cloud/compute/metadata",
+			"Rev": "12aa462581208c155e498dc13e14cabe6da24dc3"
+		},
+		{
+			"ImportPath": "google.golang.org/cloud/internal",
+			"Rev": "12aa462581208c155e498dc13e14cabe6da24dc3"
+		}
+	]
+}
